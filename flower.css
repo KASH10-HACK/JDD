@@ -2,7 +2,7 @@ body {
   background-image: url("jd.jpg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: auto; /* Sets the image to 50% of the container size */
+  background-size: 50px; /* Sets the image to 50% of the container size */
   width: 100vw;
   height: 100vh;
   margin: 0;
